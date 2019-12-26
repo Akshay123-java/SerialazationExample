@@ -14,6 +14,8 @@ public class SerialaizationExample implements Serializable{
 	
 	public static final long  SerialVersionUID=10l;
 	
+	
+	
 	public SerialaizationExample(int id, String name) {
 		super();
 		this.id = id;
