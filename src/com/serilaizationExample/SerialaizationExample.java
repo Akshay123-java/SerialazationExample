@@ -16,6 +16,8 @@ public class SerialaizationExample implements Serializable{
 	
 	
 	
+	
+	
 	public SerialaizationExample(int id, String name) {
 		super();
 		this.id = id;
